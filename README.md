@@ -40,7 +40,7 @@ This project is about...
 <img src=search0.png width="310" height="110"> <img src=search1.png width="310" height="110"> <img src=search2.png width="280" height="110"> 
 | Severity Rating | Evaluation |  
 |---|---|
-| 1 | Search bar does not display recommended searches or potential results, therefore providing no guidance to users. Instead, it displays the previously searched phrases which might be inefficient as users already viewed the search results for them. The "Search" placeholder text is vague as users might potentially get confused about where the search will navigate them to. Because the search leads to "References", "Search articles" might be a better option. |
+| 1 | Search bar does not display recommended searches or potential results, therefore providing no guidance to users. Instead, it displays the previously searched phrases which might be inefficient as users already viewed the search results for them. The "Search" placeholder text is vague as users might potentially get confused about where the search will navigate them to. Because the search leads to a page displaying resources, "Search resources" or "Search articles" might be a better option. |
 
 <p>&nbsp;</p>
 
@@ -66,8 +66,8 @@ This project is about...
 ![slideshow img](2slide.png)
 | Severity Rating | Evaluation |
 |---|---|
-| 3 | Consistancy is lost as navigation bar disappears. Requires users to click the back button to explore more tabs.|
-| 1 | There is no indication for users to scroll horizontally or vertically which can cause confusion in users. A sign stating "Press '>' to continue" or "Scroll down" would be recommended. |
+| 3 | Consistancy is lost as navigation bar disappears. This requires users to click the back button to explore more tabs. Including the navigation bar is recommended.|
+| 1 | There is no indication for users to scroll horizontally or vertically which can cause confusion in users. A sign stating "Press '>' to continue" or "Scroll down" would be a helpful solution. |
 
 
 <p>&nbsp;</p>
@@ -77,5 +77,5 @@ This project is about...
 
 | Severity Rating | Evaluation |
 |---|---|
-| 2 | "National Scorecard" is a jargon that many users might not recognize. |
+| 2 | "National Scorecard" is a jargon that many users might not recognize. Instead, using "Sustainable Development Goals by Country" that will tell users that they would be able to view the seventeen goals is a possible solution. Also, because clicling on "National Scorecard" leads to many resources like the progress of each country and details about each sustainable development goal, implementing a drop down menu displaying these resources is a recommended solution. |
 
