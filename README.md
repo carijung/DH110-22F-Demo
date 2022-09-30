@@ -31,9 +31,13 @@ This project is about...
 
 | Severity Rating | Evaluation |  
 |---|---|
-| 1 | When cursor is hovered above the header and navigation bars the color changes, indicating that it is clickable. Additionally, the changes in the color allows users to indicate which tab they are currently viewing. These enhance user interactability with the site.|
+| Good | When cursor is hovered above the header and navigation bars the color changes, indicating that it is clickable. Additionally, the changes in the color allows users to indicate which tab they are currently viewing. These enhance user interactability with the site.|
 
 
 
 
 <img src=search1.png width="500" height="145"> <img src=search2.png width="500" height="145"> 
+| Severity Rating | Evaluation |  
+|---|---|
+| 1 | Search bar does not display recommended searches or potential results, therefore providing no guidance to users. The "Search" text is vague as users might potentially get confused about where the search will navigate them to. Because the search leads to references, "Search articles" might be a better option. |
+
