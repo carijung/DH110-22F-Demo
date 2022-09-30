@@ -35,3 +35,4 @@ This project is about...
 
 ![search bar image](search 1.png) 
 ![search bar 2](search 2.png)
+
