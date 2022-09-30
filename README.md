@@ -60,12 +60,15 @@ This project is about...
 | 3 | Consistancy is lost as navigation bar disappears. Requires users to click the back button to explore more tabs.|
 | 1 | There is no indication for users to scroll horizontally or vertically which can cause confusion in users. A sign stating "Press '>' to continue" or "Scroll down" would be recommended. |
 
+<p>&nbsp;</p>
+
 ### • "What we do" tab
 <img src=2slide2.png width="260" height="400">
 | Severity Rating | Evaluation |
 |---|---|
 | 3 | User's initial response can potentially be that this is just a list of what the organization does. However, it is clickable and leads to many more resources that users can miss because there are no indications like arrows, bolded letters, or underlines. |
 
+<p>&nbsp;</p>
 
 ### • "National Scorecard" page
 <img src=2slide3.png width="500" height="400"> <img src=2slide4.png width="500" height="400">
