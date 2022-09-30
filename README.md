@@ -33,7 +33,7 @@ This project is about...
 |---|---|
 | Good | When cursor is hovered above the header and navigation bars the color changes, indicating that it is clickable. Additionally, the changes in the color allows users to indicate which tab they are currently viewing. These enhance user interactability with the site.|
 
-<img src=search0.png width="310" height="110"> <img src=search1.png width="310" height="110"> <img src=search2.png width="290" height="115"> 
+<img src=search0.png width="310" height="110"> <img src=search1.png width="310" height="110"> <img src=search2.png width="290" height="110"> 
 | Severity Rating | Evaluation |  
 |---|---|
 | 1 | Search bar does not display recommended searches or potential results, therefore providing no guidance to users. Instead, it displays the previously searched phrases which might be inefficient as users already viewed the search results for them. The "Search" placeholder text is vague as users might potentially get confused about where the search will navigate them to. Because the search leads to "References", "Search articles" might be a better option. |
