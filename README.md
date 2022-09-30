@@ -59,6 +59,6 @@ This project is about...
 ### • "What we do" tab
 <img src=2slide2.png width="260" height="400">
 
-### • 
+### • "National Scorecard" page
 <img src=2slide3.png width="500" height="400"> <img src=2slide4.png width="500" height="400">
 
