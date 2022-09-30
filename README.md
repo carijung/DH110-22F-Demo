@@ -33,6 +33,8 @@ This project is about...
 |---|---|
 | Good | When cursor is hovered above the navigation tabs the color changes, indicating that it is clickable. Additionally, the changes in the color allows users to indicate which tab they are currently viewing. These enhance user interactability with the site.|
 
+<p>&nbsp;</p>
+
 <img src=search0.png width="310" height="110"> <img src=search1.png width="310" height="110"> <img src=search2.png width="280" height="110"> 
 | Severity Rating | Evaluation |  
 |---|---|
