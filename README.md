@@ -27,7 +27,7 @@ This project is about...
 
 ## 1. Visibility of System Status
 
-# * Navigation tab
+### * Navigation tab
 ![image](un1.png)
 
 | Severity Rating | Evaluation |  
