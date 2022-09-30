@@ -66,7 +66,7 @@ This project is about...
 <img src=2slide2.png width="260" height="400">
 | Severity Rating | Evaluation |
 |---|---|
-| 3 | User's initial response can potentially be that this is just a list of what the organization does. However, it is clickable and leads to many more resources that users can miss because there are no indications like arrows, bolded letters, or underlines. |
+| 3 | User's initial response can potentially be that this is just a list of what the organization does. However, it is clickable and leads to many more resources that users can miss because there are no indications like arrows, bolded letters, or underlines.|
 
 <p>&nbsp;</p>
 
