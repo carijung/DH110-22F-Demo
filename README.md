@@ -55,6 +55,10 @@ This project is about...
 
 ### • Parallax scrolling page 
 ![slideshow img](2slide.png)
+| Severity Rating | Evaluation |
+|---|---|
+| 3 | Consistancy is lost as navigation bar disappears. Requires users to click the back button to explore more tabs.|
+| 1 | There is no indication for users to scroll horizontally or vertically which can cause confusion in users. A sign stating "Press '>' to continue" or "Scroll down" would be recommended. |
 
 ### • "What we do" tab
 <img src=2slide2.png width="260" height="400">
