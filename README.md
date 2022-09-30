@@ -41,6 +41,7 @@ This project is about...
 ### 2. Match between system and the real world
 ![header img](header.png)
 ![slideshow img](2slide.png)
-<img src=2slide2.png width="250" height="400">
+<img src=2slide2.png width="260" height="400">
+
 <img src=2slide3.png width="400" height="500"> <img src=2slide4.png width="400" height="500">
 
