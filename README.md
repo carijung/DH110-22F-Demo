@@ -52,6 +52,7 @@ This project is about...
 | Good | The navigation tab does not use jargons but instead uses easy to understand phrases like "What we do" do to help users easily navigate the site. |
 
 <p>&nbsp;</p>
+
 ### • Presentation slide 
 ![slideshow img](2slide.png)
 
