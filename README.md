@@ -33,9 +33,4 @@ This project is about...
 |---|---|
 | 1 | When cursor is hovered above the header and navigation bars the color changes, indicating that it is clickable. Additionally, the changes in the color allows users to indicate which tab they are currently viewing. These enhance user interactability with the site.|
 
-![search bar 1](search1.png)
-![search bar 2](search2.png)
-<p align="center">
-  <img src="../search1.png" alt="Search query no immediate results" width = "300px"/>
-  <img src="../search2.png" alt="Search query irrelevant results" width = "300px"/>
-</p>
+![search bar 1](search1.png) ![search bar 2](search2.png)
