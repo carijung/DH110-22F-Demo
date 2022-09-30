@@ -1,5 +1,5 @@
 # Sustainable Cities and Communities
-#### Cari Jung • DH110 • Fall 2022
+Cari Jung • DH110 • Fall 2022
 
 This project is about...
 
