@@ -29,4 +29,4 @@ This project is about...
 
 ## 1. Visibility of System Status
 
-![unep visibility of system status](un1.png)
+![image](un1.png)
