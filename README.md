@@ -31,7 +31,7 @@ This project is about...
 
 | Severity Rating | Evaluation |  
 |---|---|
-| Good | When cursor is hovered above the header and navigation bars the color changes, indicating that it is clickable. Additionally, the changes in the color allows users to indicate which tab they are currently viewing. These enhance user interactability with the site.|
+| Good | When cursor is hovered above the navigation tabs the color changes, indicating that it is clickable. Additionally, the changes in the color allows users to indicate which tab they are currently viewing. These enhance user interactability with the site.|
 
 <img src=search0.png width="310" height="110"> <img src=search1.png width="310" height="110"> <img src=search2.png width="280" height="110"> 
 | Severity Rating | Evaluation |  
@@ -41,7 +41,7 @@ This project is about...
 ### 2. Match between system and the real world
 ![header img](heading.png)
 |---|---|
-| 1 |  |
+| Good | The navigation tab does not use jargons but instead uses easy-to-understand phrases like "What we do" do to help users easily navigate the site. |
 
 ![slideshow img](2slide.png)
 <img src=2slide2.png width="260" height="400">
