@@ -77,5 +77,5 @@ This project is about...
 
 | Severity Rating | Evaluation |
 |---|---|
-| 2 | "National Scorecard" is a jargon that many users might not recognize. Instead, using "Sustainable Development Goals by Country" that will tell users that they would be able to view the seventeen goals is a possible solution. Also, because clicling on "National Scorecard" leads to many resources like the progress of each country and details about each sustainable development goal, implementing a drop down menu displaying these resources is a recommended solution. |
+| 3 | "National Scorecard" is a jargon that many users might not recognize. Instead, using "Sustainable Development Goals by Country" that will tell users that they would be able to view the seventeen goals is a possible solution. Also, because clicking on "National Scorecard" leads to many resources like the progress of each country and details about each sustainable development goal, implementing a drop down menu displaying these resources is a recommended solution. |
 
