@@ -28,7 +28,10 @@ This project is about...
 ### 1. Visibility of System Status
 
 ![image](un1.png)
-* Changes in the color of the header and the navigation bar allows users to indicate which tab they are currently viewing.
 
-Severity Rating: 1
- 
+|Severity Rating  |Evaluation                                                                                                                |
+|1                |* Changes in the color of the header and the navigation bar allows users to indicate which tab they are currently viewing.
+|                 |* When cursor is hovered above the options, the color of the header changes, indicating that it is clickable, which enhances user interacability
+|                 |  with the site.
+
+
