@@ -27,6 +27,9 @@ This project is about...
 
 ### Heuristic Evaluation of UN Environment Programme
 
-## 1. Visibility of System Status
+### 1. Visibility of System Status
 
 ![image](un1.png)
+* Changes in the color of the header and the navigation bar allows users to indicate which tab they are currently viewing.
+Severity Rating: 1
+ 
