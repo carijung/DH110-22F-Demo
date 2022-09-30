@@ -39,5 +39,5 @@ This project is about...
 <img src=search1.png width="500" height="145"> <img src=search2.png width="500" height="145"> 
 | Severity Rating | Evaluation |  
 |---|---|
-| 1 | Search bar does not display recommended searches or potential results, therefore providing no guidance to users. The "Search" text is vague as users might potentially get confused about where the search will navigate them to. Because the search leads to references, "Search articles" might be a better option. |
+| 1 | Search bar does not display recommended searches or potential results, therefore providing no guidance to users. The "Search" text is vague as users might potentially get confused about where the search will navigate them to. Because the search leads to "References", "Search articles" might be a better option. |
 
