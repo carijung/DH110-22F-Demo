@@ -36,3 +36,7 @@ This project is about...
 ![search bar 1](search1.png)
 ![search bar 2](search2.png)
 
+<p align="center">
+  <img src="../Images/search1.PNG" alt="Search query no immediate results" width = "300px"/>
+  <img src="../Images/search2.png" alt="Search query irrelevant results" width = "300px"/>
+</p>
