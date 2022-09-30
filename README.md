@@ -19,13 +19,13 @@ This project is about...
 | 10 | Help and Documentation | Supply users with extra help to complete their tasks |
 
  
-## Website #1: [UN Environment Programme](https://www.unep.org/)
+# Website #1: [UN Environment Programme](https://www.unep.org/)
 
 [insert information about this site]
 
-### Heuristic Evaluation of UN Environment Programme
+## Heuristic Evaluation of UN Environment Programme
 
-### 1. Visibility of System Status
+## 1. Visibility of System Status
 
 ![image](un1.png)
 
@@ -38,7 +38,7 @@ This project is about...
 |---|---|
 | 1 | Search bar does not display recommended searches or potential results, therefore providing no guidance to users. Instead, it displays the previously searched phrases which might be inefficient as users already viewed the search results for them. The "Search" placeholder text is vague as users might potentially get confused about where the search will navigate them to. Because the search leads to "References", "Search articles" might be a better option. |
 
-### 2. Match between system and the real world
+## 2. Match between system and the real world
 ![header img](heading.png)
 | Severity Rating | Evaluation |
 |---|---|
