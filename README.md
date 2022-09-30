@@ -38,4 +38,4 @@ This project is about...
 |---|---|
 | 1 | Search bar does not display recommended searches or potential results, therefore providing no guidance to users. Instead, it displays the previously searched phrases which might be inefficient as users already viewed the search results for them. The "Search" placeholder text is vague as users might potentially get confused about where the search will navigate them to. Because the search leads to "References", "Search articles" might be a better option. |
 
-### 2. Match between system and the real world
+### 2. Match between system and the real wo
