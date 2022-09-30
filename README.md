@@ -40,6 +40,7 @@ This project is about...
 
 ### 2. Match between system and the real world
 ![header img](heading.png)
+| Severity Rating | Evaluation |
 |---|---|
 | Good | The navigation tab does not use jargons but instead uses easy-to-understand phrases like "What we do" do to help users easily navigate the site. |
 
