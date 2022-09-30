@@ -40,6 +40,9 @@ This project is about...
 
 ### 2. Match between system and the real world
 ![header img](heading.png)
+|---|---|
+| 1 |  |
+
 ![slideshow img](2slide.png)
 <img src=2slide2.png width="260" height="400">
 
