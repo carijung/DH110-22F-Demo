@@ -49,7 +49,7 @@ This project is about...
 
 | Severity Rating | Evaluation |
 |---|---|
-| 3 | User's initial response can potentially be that this is just a list of what the organization does. However, it is clickable and leads to many more resources that users can miss because there are no indications like arrows, bolded letters, or underlines. |
+| 3 | User's initial response can potentially be that this is just a list of what the organization does. However, it is clickable and leads to many more resources that users can miss because there are no indications like arrows, bolded letters, or underlines. Including at least one of these indicators is a possible solution. |
 
 <p>&nbsp;</p>
 
@@ -74,4 +74,8 @@ This project is about...
 
 ### • "National Scorecard" page
 <img src=2slide3.png width="500" height="400"> <img src=2slide4.png width="500" height="400">
+
+| Severity Rating | Evaluation |
+|---|---|
+| 2 | "National Scorecard" is a jargon that many users might not recognize. |
 
