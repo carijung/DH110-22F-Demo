@@ -31,6 +31,6 @@ This project is about...
 
 | Severity Rating | Evaluation |  
 |---|---|
-| 1 | When cursor is hovered above the header and navigation bars the color changes, indicating that it is clickable. Additionally, the changes in the color allows users to indicate which tab they are currently viewing. These enhance user interacability with the site.|
+| 1 | When cursor is hovered above the header and navigation bars the color changes, indicating that it is clickable. Additionally, the changes in the color allows users to indicate which tab they are currently viewing. These enhance user interactability with the site.|
 
-
+![search bar image](un_searchbar.png)
