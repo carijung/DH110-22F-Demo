@@ -41,6 +41,7 @@ This project is about...
 ### 2. Match between system and the real world
 ![header img](header.png)
 ![slideshow img](2slide.png)
-![what we do](2slide2.png)
+<img src=2slide2.png height="200>
+
 ![jargon](2slide3.png)
 ![sustainable goals](2slide4.png)
