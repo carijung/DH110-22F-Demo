@@ -45,14 +45,17 @@ This project is about...
 <p>&nbsp;</p>
 
 ## 2. Match between system and the real world
+### • Navigation tab
 ![header img](heading.png)
 | Severity Rating | Evaluation |
 |---|---|
 | Good | The navigation tab does not use jargons but instead uses easy to understand phrases like "What we do" do to help users easily navigate the site. |
 
 <p>&nbsp;</p>
-
+### • Presentation slide 
 ![slideshow img](2slide.png)
+
+### • 
 <img src=2slide2.png width="260" height="400">
 
 <img src=2slide3.png width="500" height="400"> <img src=2slide4.png width="500" height="400">
