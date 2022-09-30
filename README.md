@@ -27,7 +27,7 @@ This project is about...
 
 ## 1. Visibility of System Status
 
-### *Navigation tab
+### • Navigation tab
 ![image](un1.png)
 
 | Severity Rating | Evaluation |  
@@ -36,6 +36,7 @@ This project is about...
 
 <p>&nbsp;</p>
 
+### • Search bar
 <img src=search0.png width="310" height="110"> <img src=search1.png width="310" height="110"> <img src=search2.png width="280" height="110"> 
 | Severity Rating | Evaluation |  
 |---|---|
