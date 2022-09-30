@@ -1,7 +1,5 @@
-# DH110-22F-Demo
-
-## Sustainable Cities and Communities
-### Cari Jung • DH110 • Fall 2022
+# Sustainable Cities and Communities
+#### Cari Jung • DH110 • Fall 2022
 
 This project is about...
 
@@ -31,5 +29,6 @@ This project is about...
 
 ![image](un1.png)
 * Changes in the color of the header and the navigation bar allows users to indicate which tab they are currently viewing.
+
 Severity Rating: 1
  
