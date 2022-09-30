@@ -43,5 +43,5 @@ This project is about...
 ![slideshow img](2slide.png)
 <img src=2slide2.png width="260" height="400">
 
-<img src=2slide3.png width="500" height="300"> <img src=2slide4.png width="500" height="300">
+<img src=2slide3.png width="500" height="400"> <img src=2slide4.png width="500" height="400">
 
