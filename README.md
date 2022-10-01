@@ -1,7 +1,7 @@
 # Sustainable Cities and Communities
 Cari Jung • DH110 • Fall 2022
 
-This project is about...
+[This project is about...]
 
 ### Jakob Nielson's [10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) Explained
 
@@ -21,9 +21,23 @@ This project is about...
  
 # Website #1: [UN Environment Programme](https://www.unep.org/)
 
-[insert information about this site, screenshot of frontpage, initial heiristic evaluation]
+[insert information about this site, screenshot of frontpage, initial heuristic evaluation]
+![frontpage](frontpage.png)
+
+<p>&nbsp;</p>
+
+### Background Information and Initial Heuristic Evaluation
+UNEP aims to advocate for the quality of life and provide various resources to inform users about planetary crises and ways for them to get involved.
+
+<p>&nbsp;</p>
 
 ## Heuristic Evaluation of UN Environment Programme
+
+<p>&nbsp;</p>
+#### • Initial Heuristic Evaluation
+My inital reaction when visiting this site was that it was easy to navigate thanks to the navigation bars located at the top of the page. 
+
+<p>&nbsp;</p>
 
 ## 1. Visibility of System Status
 
@@ -62,7 +76,7 @@ This project is about...
 
 <p>&nbsp;</p>
 
-### • Parallax scrolling page 
+### • Parallax Scrolling page 
 ![slideshow img](2slide.png)
 | Severity Rating | Evaluation |
 |---|---|
