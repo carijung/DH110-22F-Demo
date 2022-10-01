@@ -40,7 +40,7 @@ This project is about...
 <img src=search0.png width="310" height="110"> <img src=search1.png width="310" height="110"> <img src=search2.png width="280" height="110"> 
 | Severity Rating | Evaluation |  
 |---|---|
-| 1 | Search bar does not display recommended searches or potential results, therefore providing no guidance to users. Instead, it displays the previously searched phrases which might be inefficient as users already viewed the search results for them. The "Search" placeholder text is vague as users might potentially get confused about where the search will navigate them to. Because the search leads to a page displaying resources, "Search resources" or "Search articles" might be a better option. |
+| 1 | Search bar does not display recommended searches or potential results. Instead, it only displays the previously searched phrases. The "Search" placeholder text is vague as users might potentially get confused about where the search will navigate them to. Because the search leads to a page displaying resources, "Search resources" or "Search articles" might be a better option. |
 
 <p>&nbsp;</p>
 
@@ -110,19 +110,25 @@ This project is about...
 <p>&nbsp;</p>
 
 ### • Search results
-![errpr](eror.png)
+![error](error.png)
 | Severity Rating | Evaluation |
 |---|---|
-| 3 | There is no typo indicator or autofill suggestions. Instead, when users make a typo, they are given no results or different/unrelated search results that can misguide them. Implementing an algorithm that helps detect typos and displaying "Did you mean _________" on the screen will notify users of their error and helpthem achiev thier desired results. |
-
+| 3 | There is no typo indicator or autofill suggestions. Instead, when users make a typo, they are given no results or different/unrelated search results that can misguide them. Implementing an algorithm that helps detect typos and displaying "Did you mean _________" on the screen will notify users of their error and helpthem achieve thier desired results. |
 
 <p>&nbsp;</p>
 
 ## 6. Recognition Rather Than Recall
 
+### • Search bar
+![search](seach0.png)
+| Severity Rating | Evaluation |  
+|---|---|
+| 1 | The function of the "Search" tab is vague as users do not know whether they can find subheadings, articles, or contact information using the search tab. Because the search leads to a page displaying resources, "Search resources" or "Search articles" might be a better option. |
+
 <p>&nbsp;</p>
 
 ## 7. Flexibility and Efficiency of Use
+
 
 <p>&nbsp;</p>
 
