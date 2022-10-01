@@ -95,7 +95,7 @@ This project is about...
 ![slideshow img](2slide.png)
 | Severity Rating | Evaluation |
 |---|---|
-| 3 | Consistancy is lost as navigation bar disappears. This requires users to click the back button to explore more tabs. Including the navigation bar is recommended.|
+| 3 | Consistancy is lost as navigation bar disappears, which makes this page look like an external site. Users are required to click the back button to explore more tabs. Including the navigation bar is recommended.|
 
 <p>&nbsp;</p>
 
