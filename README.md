@@ -81,4 +81,4 @@ This project is about...
 
 ## 3. User control and freedom
 ### • "Subscribe to the UNEP Newsletter" page
-<img src=heur3.1.png width="500" height="400"> <img src=heur3.png width="500" height="400">
+<img src=heur3.1.png width="510" height="400"> <img src=heur3.png width="500" height="400">
