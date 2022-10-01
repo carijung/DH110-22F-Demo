@@ -131,8 +131,7 @@ This project is about...
 ![no nav tab](heur7.png)
 | Severity Rating | Evaluation |  
 |---|---|
-| 1 | As user scroll down, the navigation tab disappears, which requries users to scroll all the way to the top to navigate to another page or explore more options.
-Potential solution: Always make navigation tab visible regardless of where on the site users might be. |
+| 1 | As user scroll down, the navigation tab disappears, which requries users to scroll all the way to the top to navigate to another page or explore more options. A potential solution would be to always make navigation tab visible regardless of where on the site users might be. |
 
 <p>&nbsp;</p>
 
