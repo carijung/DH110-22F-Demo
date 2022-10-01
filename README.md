@@ -100,14 +100,6 @@ This project is about...
 <p>&nbsp;</p>
 
 ## 5. Error Prevention
-### • "Subscribe to the UNEP Newsletter" page
-<img src=heur3.1.png width="550" height="370"> <img src=heur3.2.png width="450" height="300">
-
-| Severity Rating | Evaluation |
-|---|---|
-| 3 | Although the user inputs an invalid email, it gives them a notification that they have successfully subscribed to receiving the newsletter. A potential solution would be to check if the email is valid by asking users to confirm their email. |
-
-<p>&nbsp;</p>
 
 ### • Search results
 ![error](error.png)
@@ -153,6 +145,13 @@ This project is about...
 <p>&nbsp;</p>
 
 ## 9. Help Users Recognize, Diagnose, and Recover From Errors
+
+### • "Subscribe to the UNEP Newsletter" page
+<img src=heur3.1.png width="550" height="370"> <img src=heur3.2.png width="450" height="300">
+
+| Severity Rating | Evaluation |
+|---|---|
+| 3 | Although the user inputs an invalid email, it gives them a notification that they have successfully subscribed to receiving the newsletter. A potential solution would be to check if the email is valid by asking users to confirm their email. |
 
 <p>&nbsp;</p>
 
