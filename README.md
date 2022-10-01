@@ -120,7 +120,7 @@ This project is about...
 ## 6. Recognition Rather Than Recall
 
 ### • Search bar
-![search](seach0.png)
+![search](search0.png)
 | Severity Rating | Evaluation |  
 |---|---|
 | 1 | The function of the "Search" tab is vague as users do not know whether they can find subheadings, articles, or contact information using the search tab. Because the search leads to a page displaying resources, "Search resources" or "Search articles" might be a better option. |
@@ -128,7 +128,11 @@ This project is about...
 <p>&nbsp;</p>
 
 ## 7. Flexibility and Efficiency of Use
-
+![no nav tab](heur7.png)
+| Severity Rating | Evaluation |  
+|---|---|
+| 1 | As user scroll down, the navigation tab disappears, which requries users to scroll all the way to the top to navigate to another page or explore more options.
+Potential solution: Always make navigation tab visible regardless of where on the site users might be. |
 
 <p>&nbsp;</p>
 
