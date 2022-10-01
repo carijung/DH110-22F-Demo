@@ -79,6 +79,16 @@ This project is about...
 |---|---|
 | 3 | "National Scorecard" is a jargon that many users might not recognize. Instead, using "Sustainable Development Goals by Country" that will tell users that they would be able to view the seventeen goals is a possible solution. Also, because clicking on "National Scorecard" leads to many resources like the progress of each country and details about each sustainable development goal, implementing a drop down menu displaying options like "Sustainable Development Goals" and "Progress by Country" is a recommended solution. |
 
+<p>&nbsp;</p>
+
 ## 3. User control and freedom
 ### • "Subscribe to the UNEP Newsletter" page
 <img src=heur3.1.png width="550" height="370"> <img src=heur3.2.png width="450" height="300">
+
+| Severity Rating | Evaluation |
+|---|---|
+| 3 | Although the user inputs an invalid email, it gives them a notification that they have successfully subscribed to receiving the newsletter. Additionally, if users desire to choose more options after submitting their request, the only way to choose more options is to reiterate the process of inputting their email, first name, last name, and choosing their options. There is no sign that they have already chosen their option so this might promt users to reselect their past choices. A potential solution would be to check if the email is valid by asking users to confirm their email or even implement an algorithm that will check for the validity. Moreover, users should be able to get a sign that tells them that they have already subscribed to certain newsletters if they already have. This can be accomplished through making the subscribed options unclickalble or simply show "subscribed" next to the options. |
+
+<p>&nbsp;</p>
+
+## 4. 
