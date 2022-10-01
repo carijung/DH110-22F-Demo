@@ -97,3 +97,5 @@ This project is about...
 | Severity Rating | Evaluation |
 |---|---|
 | 3 | Consistancy is lost as navigation bar disappears. This requires users to click the back button to explore more tabs. Including the navigation bar is recommended.|
+
+## 5. Consistency and Standards
