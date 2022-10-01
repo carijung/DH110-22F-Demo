@@ -80,7 +80,7 @@ This project is about...
 
 <p>&nbsp;</p>
 
-## 3. User control and freedom
+## 3. User Control and Freedom
 ### • "Subscribe to the UNEP Newsletter" page
 <img src=heur3.1.png width="550" height="370"> <img src=heur3.2.png width="450" height="300">
 
@@ -98,4 +98,27 @@ This project is about...
 |---|---|
 | 3 | Consistancy is lost as navigation bar disappears. This requires users to click the back button to explore more tabs. Including the navigation bar is recommended.|
 
-## 5. Consistency and Standards
+<p>&nbsp;</p>
+
+## 5. Error Prevention
+
+<p>&nbsp;</p>
+
+## 6. Recognition Rather Than Recall
+
+<p>&nbsp;</p>
+
+## 7. Flexibility and Efficiency of Use
+
+<p>&nbsp;</p>
+
+## 8. Aesthetic and Minimalist Design
+
+<p>&nbsp;</p>
+
+## 9. Help Users Recognize, Diagnose, and Recover From Errors
+
+<p>&nbsp;</p>
+
+## 10. Help and Documentation
+
