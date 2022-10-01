@@ -86,7 +86,6 @@ This project is about...
 
 | Severity Rating | Evaluation |
 |---|---|
-| 3 | Although the user inputs an invalid email, it gives them a notification that they have successfully subscribed to receiving the newsletter. A potential solution would be to check if the email is valid by asking users to confirm their email. |
 | 3 | if users desire to choose more options after submitting their request, the only way to choose more options is to reiterate the process of inputting their email, first name, last name, and choosing their options. There is no sign that they have already chosen their option so this might promt users to reselect their past choices. A potential solution would be giving users a sign that tells them that they have already subscribed to certain newsletters if they already have. This can be accomplished through making the already subscribed options unclickalble or simply show "subscribed" next to the options.|
 
 <p>&nbsp;</p>
@@ -101,6 +100,12 @@ This project is about...
 <p>&nbsp;</p>
 
 ## 5. Error Prevention
+### • "Subscribe to the UNEP Newsletter" page
+<img src=heur3.1.png width="550" height="370"> <img src=heur3.2.png width="450" height="300">
+
+| Severity Rating | Evaluation |
+|---|---|
+| 3 | Although the user inputs an invalid email, it gives them a notification that they have successfully subscribed to receiving the newsletter. A potential solution would be to check if the email is valid by asking users to confirm their email. |
 
 <p>&nbsp;</p>
 
