@@ -128,6 +128,8 @@ This project is about...
 <p>&nbsp;</p>
 
 ## 7. Flexibility and Efficiency of Use
+
+### • Navigation tab
 ![no nav tab](heur7.png)
 | Severity Rating | Evaluation |  
 |---|---|
@@ -136,6 +138,17 @@ This project is about...
 <p>&nbsp;</p>
 
 ## 8. Aesthetic and Minimalist Design
+
+### • Footer
+![barely visible information](blue.png)
+| Severity Rating | Evaluation |  
+|---|---|
+| 1 | Users expect to find contact information and other legal pages at the footer of the website. However, because the fonts are small and colored in a slightly lighter shade than the background, users experiencing vision troubles will have a hard time locating these information. Changing the font to white like the rest of the information at theh footer and increasing the font size is a potential solution.|
+
+![small visualizations](heur8.png)
+| Severity Rating | Evaluation |  
+|---|---|
+| 2 | This page has enough space to increase the size of this interactive visualization, yet it is small compared to the whole page. A potential solution would be to increase the size of this visualization and the font so users don't have to zoom in to view the informations.|
 
 <p>&nbsp;</p>
 
