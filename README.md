@@ -156,4 +156,7 @@ This project is about...
 <p>&nbsp;</p>
 
 ## 10. Help and Documentation
-
+### • No FAQ page
+| Severity Rating | Evaluation |
+|---|---|
+| 3 | This site does not include a FAQ page and users are expected to contact them to get their questions answered. Because there is no guarantee how long they would need to wait to get a response and a FAQ page can help them immediately, implementing a FAQ page on the "contact us" page or the footer will be a helpful solution that saves time for the resondents as well.|
