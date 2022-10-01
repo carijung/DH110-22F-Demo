@@ -80,3 +80,5 @@ This project is about...
 | 3 | "National Scorecard" is a jargon that many users might not recognize. Instead, using "Sustainable Development Goals by Country" that will tell users that they would be able to view the seventeen goals is a possible solution. Also, because clicking on "National Scorecard" leads to many resources like the progress of each country and details about each sustainable development goal, implementing a drop down menu displaying options like "Sustainable Development Goals" and "Progress by Country" is a recommended solution. |
 
 ## 3. User control and freedom
+### • "Subscribe to the UNEP Newsletter" page
+<img src=heur3.1.png width="500" height="400"> <img src=heur3.png width="500" height="400">
