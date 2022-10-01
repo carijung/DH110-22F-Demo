@@ -137,6 +137,7 @@ This project is about...
 |---|---|
 | 1 | Users expect to find contact information and other legal pages at the footer of the website. However, because the fonts are small and colored in a slightly lighter shade than the background, users experiencing vision troubles will have a hard time locating these information. Changing the font to white like the rest of the information at theh footer and increasing the font size is a potential solution.|
 
+### • Visualization
 ![small visualizations](heur8.png)
 | Severity Rating | Evaluation |  
 |---|---|
