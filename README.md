@@ -109,6 +109,15 @@ This project is about...
 
 <p>&nbsp;</p>
 
+### • Search results
+![errpr](eror.png)
+| Severity Rating | Evaluation |
+|---|---|
+| 3 | There is no typo indicator or autofill suggestions. Instead, when users make a typo, they are given no results or different/unrelated search results that can misguide them. Implementing an algorithm that helps detect typos and displaying "Did you mean _________" on the screen will notify users of their error and helpthem achiev thier desired results. |
+
+
+<p>&nbsp;</p>
+
 ## 6. Recognition Rather Than Recall
 
 <p>&nbsp;</p>
