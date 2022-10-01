@@ -66,7 +66,6 @@ This project is about...
 ![slideshow img](2slide.png)
 | Severity Rating | Evaluation |
 |---|---|
-| 3 | Consistancy is lost as navigation bar disappears. This requires users to click the back button to explore more tabs. Including the navigation bar is recommended.|
 | 1 | There is no indication for users to scroll horizontally or vertically which can cause confusion in users. A sign stating "Press '>' to continue" or "Scroll down" would be a helpful solution. |
 
 
@@ -92,4 +91,9 @@ This project is about...
 
 <p>&nbsp;</p>
 
-## 4. 
+## 4. Consistency and Standards
+### • Parallax scrolling page 
+![slideshow img](2slide.png)
+| Severity Rating | Evaluation |
+|---|---|
+| 3 | Consistancy is lost as navigation bar disappears. This requires users to click the back button to explore more tabs. Including the navigation bar is recommended.|
