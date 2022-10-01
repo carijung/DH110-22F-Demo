@@ -21,22 +21,19 @@ Cari Jung • DH110 • Fall 2022
  
 # Website #1: [UN Environment Programme](https://www.unep.org/)
 
-[insert information about this site, screenshot of frontpage, initial heuristic evaluation]
 ![frontpage](frontpage.png)
 
 <p>&nbsp;</p>
 
-### Background Information and Initial Heuristic Evaluation
-UNEP aims to advocate for the quality of life and provide various resources to inform users about planetary crises and ways for them to get involved.
+### Background Information
+UNEP aims to advocate for the quality of life and provide necessary resources to countries to ensure sustainability. Moreover, they provide various resources to inform those with access to internet about planetary crises and ways for them to get involved through their website. 
 
 <p>&nbsp;</p>
 
 ## Heuristic Evaluation of UN Environment Programme
 
-<p>&nbsp;</p>
-
 #### • Initial Heuristic Evaluation
-My inital reaction when visiting this site was that it was easy to navigate thanks to the navigation bars located at the top of the page. 
+My inital reaction when visiting this site was that it was easy to navigate thanks to the navigation bars located at the top of the page. The structure of the visualizations for each page remained the same while only the visualizations changed to fit the concept of the page. However, because there was immense amount of information, I wish there were subtabs I could use to navigate to specific resources immediately. Furthermore, I wasn't sure about the purpose of the search bar and found that some illustrations and phrases were clickable and led to more resources even when there were no indicators that they were clickable. 
 
 <p>&nbsp;</p>
 
@@ -181,4 +178,4 @@ My inital reaction when visiting this site was that it was easy to navigate than
 <p>&nbsp;</p>
 
 # Website #2: [Institute for Sustainable Communities](https://sustain.org/blog/)
-[insert information about this site]
+
