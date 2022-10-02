@@ -199,7 +199,7 @@ My inital reaction when visiting this site was that it was easy to navigate than
 
 | Severity Rating | Evaluation |  
 |---|---|
-|  | 
+|  | only changes colo when cursor is above. 
 
 <p>&nbsp;</p>
 
