@@ -262,12 +262,12 @@ My inital reaction when visiting this site was that it was easy to navigate than
 <p>&nbsp;</p>
 
 ## 7. Flexibility and Efficiency of Use
-
+![contact](7heur1.1)
 ### • Unclickable "Contact" menu
 
 | Severity Rating | Evaluation |  
 |---|---|
-| 2 |  |
+| 2 | The random bolded 'contact' text misleads users into thinking it might be clickable to view contact information. However, it is not clickable and removing this would improve efficiency of use. |
 
 <p>&nbsp;</p>
 
