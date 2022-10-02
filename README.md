@@ -195,65 +195,31 @@ My inital reaction when visiting this site was that it was easy to navigate than
 ## Heuristic Evaluation of Institute of Sustainable Communities
 ## 1. Visibility of System Status
 
-### • 
+### • Navigation tabs
+![nav tab 1](2heur1.1.png)
+![nav tab 2](2heur1.2.png)
 
 | Severity Rating | Evaluation |  
 |---|---|
-|  | only changes colo when cursor is above. 
-
-<p>&nbsp;</p>
-
-### • 
-<img src=search0.png width="310" height="110"> <img src=search1.png width="310" height="110"> <img src=search2.png width="280" height="110"> 
-| Severity Rating | Evaluation |  
-|---|---|
-| 1 | Search bar does not display recommended searches or potential results. Instead, it only displays the previously searched phrases. The "Search" placeholder text is vague as users might potentially get confused about where the search will navigate them to. Because the search leads to a page displaying resources, "Search resources" or "Search articles" might be a better option. |
-
-<p>&nbsp;</p>
-
-### • "What we do" tab
-<img src=2slide2.png width="260" height="400">
-
-| Severity Rating | Evaluation |
-|---|---|
-| 3 | User's initial response can potentially be that this is just a list of what the organization does. However, it is clickable and leads to many more resources that users can miss because there are no indications like arrows, bolded letters, or underlines. Including at least one of these indicators is a possible solution. |
+| 3 | The navigation bar changes color only when the cursor is hovered above each option. The subtabs are uncolored as well which makes it hard for users to indicate which page they are on. Making the navigation tabs change color is suggested.| 
 
 <p>&nbsp;</p>
 
 ## 2. Match between system and the real world
-### • Navigation tab
-![header img](heading.png)
-| Severity Rating | Evaluation |
-|---|---|
-| Good | The navigation tab does not use jargons but instead uses easy to understand phrases like "What we do" do to help users easily navigate the site. |
-
-<p>&nbsp;</p>
-
-### • Parallax Scrolling page 
-![slideshow img](2slide.png)
-| Severity Rating | Evaluation |
-|---|---|
-| 1 | There is no indication for users to scroll horizontally or vertically which can cause confusion in users. A sign stating "Press '>' to continue" or "Scroll down" would be a helpful solution. |
-
-
-<p>&nbsp;</p>
-
-### • "National Scorecard" page
-<img src=2slide3.png width="500" height="400"> <img src=2slide4.png width="500" height="400">
+### • Jargons
 
 | Severity Rating | Evaluation |
 |---|---|
-| 3 | "National Scorecard" is a jargon that many users might not recognize. Instead, using "Sustainable Development Goals by Country" that will tell users that they would be able to view the seventeen goals is a possible solution. Also, because clicking on "National Scorecard" leads to many resources like the progress of each country and details about each sustainable development goal, implementing a drop down menu displaying options like "Sustainable Development Goals" and "Progress by Country" is a recommended solution. |
+| 1 | Navigation tab includes jargons like "community resilience" and "green finance" that potentially prompts users to click on these tabs to figure out what they mean. Instead, replacing these jargons with "recovering communities" and "investments to support sustainability" might be a better choice.|
 
 <p>&nbsp;</p>
 
 ## 3. User Control and Freedom
-### • "Subscribe to the UNEP Newsletter" page
-<img src=heur3.1.png width="550" height="370"> <img src=heur3.2.png width="450" height="300">
+### • 
 
 | Severity Rating | Evaluation |
 |---|---|
-| 3 | If users desire to choose more options after submitting their request, the only way to choose more options is to reiterate the process of inputting their email, first name, last name, and choosing their options. There is no sign that they have already chosen their option so this might promt users to reselect their past choices. A potential solution would be giving users a sign that tells them that they have already subscribed to certain newsletters if they already have. This can be accomplished through making the already subscribed options unclickalble or simply show "subscribed" next to the options.|
+| 3 ||
 
 <p>&nbsp;</p>
 
