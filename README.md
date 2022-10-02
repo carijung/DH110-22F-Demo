@@ -66,7 +66,7 @@ My inital reaction when visiting this site was that it was easy to navigate than
 
 <p>&nbsp;</p>
 
-## 2. Match between system and the real world
+## 2.  Match Between System and the Real World
 ### • Navigation tab
 ![header img](heading.png)
 | Severity Rating | Evaluation |
@@ -205,7 +205,7 @@ My inital reaction when visiting this site was that it was easy to navigate than
 
 <p>&nbsp;</p>
 
-## 2. Match between system and the real world
+## 2. Match Between System and the Real World
 ### • Jargons
 
 | Severity Rating | Evaluation |
@@ -215,30 +215,39 @@ My inital reaction when visiting this site was that it was easy to navigate than
 <p>&nbsp;</p>
 
 ## 3. User Control and Freedom
-### • 
+### • Search icon
 
+![search icon](2heur2.1)
 | Severity Rating | Evaluation |
 |---|---|
-| 3 ||
+| 3 | Although the search icon itself is clickable, the red background the search icon is located in is unclickable. This causes confusion in users especially when they initially click on the red background hoping to make searches. If users don't make an another attempt to move their cursor to click on the white icon, they might gain the misunderstanding that the search icon is defective. To give users more freedom, making the entire icon (the white search icon + the red background) clickable is recommended. |
+
+<p>&nbsp;</p>
+
+### • Subscribe to newsletter tab
+
+![no search](2heur2.2.png)
+| Severity Rating | Evaluation |
+|---|---|
+| 2 | Users aren't told what information they are supposed to input in the tab. To ensure that users feel control, inputing placeholder texts like "Email" would be useful. |
 
 <p>&nbsp;</p>
 
 ## 4. Consistency and Standards
-### • Parallax scrolling page 
-![slideshow img](2slide.png)
+### • Inconsistency in Navigation Tabs
+
 | Severity Rating | Evaluation |
 |---|---|
-| 3 | Consistancy is lost as navigation bar disappears, which makes this page look like an external site. Users are required to click the back button to explore more tabs. Including the navigation bar is recommended.|
+| 3 | |
 
 <p>&nbsp;</p>
 
 ## 5. Error Prevention
 
-### • Search results
-![error](error.png)
+### • 
 | Severity Rating | Evaluation |
 |---|---|
-| 3 | There is no typo indicator or autofill suggestions. Instead, when users make a typo, they are given no results or different/unrelated search results that can misguide them. Implementing an algorithm that helps detect typos and displaying "Did you mean _________" on the screen will notify users of their error and helpthem achieve thier desired results. |
+| 3 |  |
 
 <p>&nbsp;</p>
 
