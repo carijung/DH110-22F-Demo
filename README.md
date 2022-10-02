@@ -235,10 +235,10 @@ My inital reaction when visiting this site was that it was easy to navigate than
 
 ## 4. Consistency and Standards
 ### • Inconsistency in Navigation Tabs
-
+![nav tab](4heur1.1.png)
 | Severity Rating | Evaluation |
 |---|---|
-| 3 | |
+| 3 | When users click "Program", a drop down menu appears. However, when "About" is clicked, it takes users to the "About ISC" page. To view the drop down menu of "About", users must hover their cursor on it instead of clicking on it. To prevent these inconsistencies, making sure a drop down menu appears when "About" is clicked and making a new tab called "About ISC" in the drop down menu is a potential solution. |
 
 <p>&nbsp;</p>
 
@@ -253,54 +253,46 @@ My inital reaction when visiting this site was that it was easy to navigate than
 
 ## 6. Recognition Rather Than Recall
 
-### • Search bar
-![search](search0.png)
+### • 
+
 | Severity Rating | Evaluation |  
 |---|---|
-| 1 | The function of the "Search" tab is vague as users do not know whether they can find subheadings, articles, or contact information using the search tab. Because the search leads to a page displaying resources, "Search resources" or "Search articles" might be a better option. |
+| 1 | 
 
 <p>&nbsp;</p>
 
 ## 7. Flexibility and Efficiency of Use
 
-### • Navigation tab
-![no nav tab](heur7.png)
+### • Unclickable "Contact" menu
+
 | Severity Rating | Evaluation |  
 |---|---|
-| 1 | As user scroll down, the navigation tab disappears, which requries users to scroll all the way to the top to navigate to another page or explore more options. A potential solution would be to always make navigation tab visible regardless of where on the site users might be. |
+| 2 |  |
 
 <p>&nbsp;</p>
 
 ## 8. Aesthetic and Minimalist Design
 
-### • Footer
-![barely visible information](blue.png)
+### • 
 | Severity Rating | Evaluation |  
 |---|---|
-| 1 | Users expect to find contact information and other legal pages at the footer of the website. However, because the fonts are small and colored in a slightly lighter shade than the background, users experiencing vision troubles will have a hard time locating these information. Changing the font to white like the rest of the information at theh footer and increasing the font size is a potential solution.|
+| 1 | |
 
-### • Visualization
-![small visualizations](heur8.png)
-| Severity Rating | Evaluation |  
-|---|---|
-| 2 | This page has enough space to increase the size of this interactive visualization, yet it is small compared to the whole page. A potential solution would be to increase the size of this visualization and the font so users don't have to zoom in to view the informations.|
 
 <p>&nbsp;</p>
 
 ## 9. Help Users Recognize, Diagnose, and Recover From Errors
 
-### • "Subscribe to the UNEP Newsletter" page
-<img src=heur3.1.png width="550" height="370"> <img src=heur3.2.png width="450" height="300">
-
+### • 
 | Severity Rating | Evaluation |
 |---|---|
-| 3 | Although the user inputs an invalid email, it gives them a notification that they have successfully subscribed to receiving the newsletter. A potential solution would be to check if the email is valid by asking users to confirm their email. |
+| 3 |  |
 
 <p>&nbsp;</p>
 
 ## 10. Help and Documentation
-### • No FAQ page
+### • 
 | Severity Rating | Evaluation |
 |---|---|
-| 3 | This site does not include a FAQ page and users are expected to contact them to get their questions answered. Because there is no guarantee how long they would need to wait to get a response and a FAQ page can help them immediately, implementing a FAQ page on the "contact us" page or the footer will be a helpful solution that saves time for the resondents as well.|
+| 3 | |
 
