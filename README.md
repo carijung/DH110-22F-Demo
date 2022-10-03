@@ -1,4 +1,4 @@
-# Sustainable Cities and Communities
+# [Still in process as ofo 10/3/2022] Heuristic Evaluation of Sustainable Cities and Communities Related Sites
 Cari Jung • DH110 • Fall 2022
 
 {This project is about...}
