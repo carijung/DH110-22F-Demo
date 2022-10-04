@@ -217,7 +217,7 @@ My inital reaction when visiting this site was that it was easy to navigate than
 ## 3. User Control and Freedom
 ### • Search icon
 
-![search icon](2heur2.1)
+![search icon](2heur2.1.png)
 | Severity Rating | Evaluation |
 |---|---|
 | 3 | Although the search icon itself is clickable, the red background the search icon is located in is unclickable. This causes confusion in users especially when they initially click on the red background hoping to make searches. If users don't make an another attempt to move their cursor to click on the white icon, they might gain the misunderstanding that the search icon is defective. To give users more freedom, making the entire icon (the white search icon + the red background) clickable is recommended. |
