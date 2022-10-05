@@ -206,7 +206,7 @@ My inital reaction when visiting this site was that it was easy to navigate than
 <p>&nbsp;</p>
 
 ### • Page Number
-[pic]
+![page](page.png)
 | Severity Rating | Evaluation |
 |---|---|
 | 1 | Users must view the tab of their computer to see which page they are no indicators that tell users which page they are viewing. Making the page number bold and listing the page numbers horizontally is an ideal solution. |
