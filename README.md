@@ -294,7 +294,7 @@ My inital reaction when visiting this site was that it was easy to navigate than
 ## 10. Help and Documentation
 ### • Contact Information not Visible
 
-<img src=heur10.png width="750" height="320"> <img src=roles.png width=680 height="450">
+<img src=heur10.png width="790" height="320"> <img src=roles.png width=680 height="450">
                       
 | Severity Rating | Evaluation |
 |---|---|
