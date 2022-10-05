@@ -293,7 +293,9 @@ My inital reaction when visiting this site was that it was easy to navigate than
 
 ## 10. Help and Documentation
 ### • Contact Information not Visible
- [add photo]                          
+
+<img src=heur10.png width="300" height="200"> <img src=roles.png width=400 height="350">
+                      
 | Severity Rating | Evaluation |
 |---|---|
 | 3 | The only method of communication seems to be through emailing specific staff members. There is no contact option visible in the footer (usually where these informations are located). Instead, users have to navigate to the "Staff" page or click "ISC Staff" in the footer to obtain emails for specific members. It is also hard for users who aren't familiar with the listed roles like "Senior Program Officer" to determine who to send an email to. Adding an FAQ page and an indiator on who users should contact for their queries is recommended. |
