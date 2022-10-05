@@ -281,8 +281,11 @@ My inital reaction when visiting this site was that it was easy to navigate than
 <p>&nbsp;</p>
 
 ## 9. Help Users Recognize, Diagnose, and Recover From Errors
-![error](errorPrevention.png)
+
 ### • Subscribe to Newsletter 
+![error](errorPrevention.png)
+| Severity Rating | Evaluation |
+|---|---|
 | Good | Although the input tab does not explicitly state what information users should input, when users input other information other than their emails, they are given immediate feedback and is told how to format their input. Their previous input does not get deleted which allows them to view and correct their mistakes without having to type their response from the very beginning. This prevents the reiteration of inputting wrong information. |
 
 <p>&nbsp;</p>
