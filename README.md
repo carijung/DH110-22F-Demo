@@ -205,6 +205,14 @@ My inital reaction when visiting this site was that it was easy to navigate than
 
 <p>&nbsp;</p>
 
+### • Page Number
+[pic]
+| Severity Rating | Evaluation |
+|---|---|
+| 1 | Users must view the tab of their computer to see which page they are no indicators that tell users which page they are viewing. Making the page number bold and listing the page numbers horizontally is an ideal solution. |
+
+<p>&nbsp;</p>
+
 ## 2. Match Between System and the Real World
 ### • Jargons
 
@@ -216,16 +224,18 @@ My inital reaction when visiting this site was that it was easy to navigate than
 
 ## 3. User Control and Freedom
 ### • Search icon
-<img src=2heur2.1.png width="300" height="200>
+
+<img src= 2heur2.1.png width="200" height="200>
 
 | Severity Rating | Evaluation |
 |---|---|
 | 3 | Although the search icon itself is clickable, the red background the search icon is located in is unclickable. This causes confusion in users especially when they initially click on the red background hoping to make searches. If users don't make an another attempt to move their cursor to click on the white icon, they might gain the misunderstanding that the search icon is defective. To give users more freedom, making the entire icon (the white search icon + the red background) clickable is recommended. |
 
 <p>&nbsp;</p>
-
+                                           
 ## 4. Consistency and Standards
 ### • Inconsistency in Navigation Tabs
+                                           
 ![nav tab](4heur1.1.png)
 | Severity Rating | Evaluation |
 |---|---|
