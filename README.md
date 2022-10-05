@@ -264,6 +264,7 @@ My initial evaluation about this site is that it is very easy to navigate as the
 
 ## 6. Recognition Rather Than Recall
 
+### • Suggestions to Enhance Recognition
 | Severity Rating | Evaluation |  
 |---|---| 
 | 1 | Users have to recall the title of the blog that interested them. Adding a bookmarking option is suggested. |
@@ -271,9 +272,9 @@ My initial evaluation about this site is that it is very easy to navigate as the
 <p>&nbsp;</p>
 
 ## 7. Flexibility and Efficiency of Use
-![contact](contact.png)
-### • Unclickable "Contact" menu
 
+### • Unclickable "Contact" menu
+![contact](contact.png)
 | Severity Rating | Evaluation |  
 |---|---|
 | 2 | The random bolded 'contact' text misleads users into thinking it might be clickable to view contact information. However, it is not clickable and removing this would improve efficiency of use. |
