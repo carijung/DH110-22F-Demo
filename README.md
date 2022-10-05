@@ -216,8 +216,7 @@ My inital reaction when visiting this site was that it was easy to navigate than
 
 ## 3. User Control and Freedom
 ### • Search icon
-
-<img src=2heur2.1.png width="200" height="200>
+<img src=2heur2.1.png width="300" height="200>
 
 | Severity Rating | Evaluation |
 |---|---|
