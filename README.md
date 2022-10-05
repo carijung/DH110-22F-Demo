@@ -3,22 +3,24 @@ Cari Jung • DH110 • Fall 2022
 
 {This project is about...}
 
-### Jakob Nielson's [10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) Explained
+### Jakob Nielson's [10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) 
 
 | Number | Heuristic | Description |
 |---|---|---|
-| 1 | Visibility of System Status | Users should always be informed about what is going on and should be given appropriate feedback to their actions |
-| 2 | Match Between System and the Real World | Use concepts and language that are familiar and logical to the user |
-| 3 | User Control and Freedom | Allow users to make mistakes; give them options to undo and redo tasks |
-| 4 | Consistency and Standards | Follow conventions and make sure design is consistent across the platform |
-| 5 | Error Prevention | Get rid of error-prone conditions and provide users with safety nets for high-cost errors |
-| 6 | Recognition Rather Than Recall | Minimize user's memory load by giving them suggestions and help in context |
-| 7 | Flexibility and Efficiency of Use | Provide multiple ways to perform a task to make the platform accessible to all users |
-| 8 | Aesthetic and Minimalist Design | Provide only relevant content and features |
-| 9 | Help Users Recognize, Diagnose, and Recover From Errors | Tell users what the problem is and provide suggestions to fix it |
-| 10 | Help and Documentation | Supply users with extra help to complete their tasks |
+| 1 | Visibility of System Status | Users should always be informed through appropriate feedback |
+| 2 | Match Between System and the Real World | Users should understand the language. Design should follow real-world conventions |
+| 3 | User Control and Freedom | Design should clearly allow users to exit an unwanted process and prevent them from getting stuck |
+| 4 | Consistency and Standards | Design should be consistent across the platform so users don't wonder if diferent words, situations, and actions mean the same thing |
+| 5 | Error Prevention | Eliminate error-prone conditions or display a confirmation option to users. |
+| 6 | Recognition Rather Than Recall | Minimize user's cognitive load by making options visible |
+| 7 | Flexibility and Efficiency of Use | Design caters to both experienced and inexperienced users. Allow users to tailor frequent actions |
+| 8 | Aesthetic and Minimalist Design | Provide relevant features in interface |
+| 9 | Help Users Recognize, Diagnose, and Recover From Errors | Platform expresses error messages, precisely indicates the error, and makes suggestions  |
+| 10 | Help and Documentation | Supply users with extra documentation and assitance |
 
- {include severity rating }
+ <p>&nbsp;</p>
+ 
+ 
  
 # Website #1: [UN Environment Programme](https://www.unep.org/)
 
@@ -249,7 +251,7 @@ My inital reaction when visiting this site was that it was easy to navigate than
 ![no search](2heur2.2.png)
 | Severity Rating | Evaluation |
 |---|---|
-| 2 | Users aren't told what information they are supposed to input in the tab. To ensure that users feel in control and an error doesn't occur in the first place, inputing placeholder texts like "Email" would be useful. Additionally, displaying "Check your email right now!" or similar texts so users know whether the newsletter was sent to the correct email, is suggested.|
+| 2 | Users aren't told what information they are supposed to input in the tab. To ensure that users feel in control and an error doesn't occur in the first place, inputing placeholder texts like "Email" would be useful. Additionally, displaying confirmation actions so users know whether the newsletter was sent to the correct email, is suggested.|
 
 <p>&nbsp;</p>
 
