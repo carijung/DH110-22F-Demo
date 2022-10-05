@@ -23,9 +23,9 @@ Cari Jung • DH110 • Fall 2022
  ### Severity Ratings
 | Rating | Description |
 |---|---|
-| 1 | Cosmetic Problem, low priority|
-| 2 | Minor usability problem, mif priority |
-| 3 | Major usability problem, high priority |
+| 1 | Cosmetic Problem, lowest priority|
+| 2 | Minor usability problem, mid priority |
+| 3 | Major usability problem, highest priority |
  
  <p>&nbsp;</p>
  
@@ -193,11 +193,13 @@ My inital reaction when visiting this site was that it was easy to navigate than
 <p>&nbsp;</p>
 
 #### Background Information
-
+The Institute for Sustainable Communities believes that climate change, income inequality, and social injustice are the biggest obstacles in building a sustainable community. A sustainable community is about allowing people to feel safe, welcomed, giving them the chance to express their voices for significant decision makings, and promising resources to future generations. Additionally, the ISC creates leaders who will help tackle urgent challenges of urbanization and climate disruptions.
 
 <p>&nbsp;</p>
 
 #### Initial Heuristic Evaluation 
+My initial evaluation about this site is that it is very easy to navigate as there were no jargons and the navigation tabs were organized. I felt comfortable viewing this website because it expressed minimality 
+confused between which tabs will directly lead me to a page instead of showing a drop down menu, which prompted me to go back and reiterate the process. 
 
 <p>&nbsp;</p>
 
