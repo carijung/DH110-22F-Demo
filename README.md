@@ -1,7 +1,11 @@
-# [Still in process as of 10/3/2022] Heuristic Evaluation of Sustainable Cities and Communities Related Sites
+# Heuristic Evaluation of Sustainable Cities and Communities Related Sites
 Cari Jung • DH110 • Fall 2022
 
-{This project is about...}
+### About Project
+Many communities experience inadequate resources and nearly one billion people live in informal settlements. This way, cities become more vulnerable to climate disruptions, more natural disasters, economic losses, and human lives being lost. An important factor to resist such disasters is by building urban resilience. Because anyone can make an impact, digital products are one easy way to help people make a change or gain more insight into communities and resources. However, some digital products can be technical, which websites on sustainability shouldn't be since the users can range anywhere from young adult to seniors. Therfore, I aim to utilize my UX skills to help cater the valuable resources these websites hold to both laypeople and experts and establish intuitive interactions. 
+too technical.
+
+<p>&nbsp;</p>
 
 ### Jakob Nielson's [10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) 
 
@@ -197,7 +201,7 @@ The Institute for Sustainable Communities believes that climate change, income i
 <p>&nbsp;</p>
 
 #### Initial Heuristic Evaluation 
-My initial evaluation about this site is that it is very easy to navigate as there were no jargons and the navigation tabs were organized, which helped me easily find what I was looking for. I felt comfortable viewing this website because it expressed minimality and limited their color usage. However, I was confused between the tabs that would directly lead me to a page instead of showing a drop down menu when clicked and tabs that only showed a drop down menu when clicked. Clicking on a tab expecting it to show a drop down menu but instead leading me to a page prompted me to go back and reiterate the process. 
+My initial evaluation about this site is that it is very easy to navigate as there were no jargons and the navigation tabs were organized, which helped me easily find what I was looking for. I felt comfortable viewing this website because it expressed minimality and limited their color usage. However, I was confused between the tabs that would directly lead me to a page instead of showing a drop down menu when clicked and tabs that only showed a drop down menu when clicked. Clicking on a tab expecting it to show a drop down menu, but instead leading me to a page, prompted me to go back and reiterate the process. 
 
 <p>&nbsp;</p>
 
