@@ -217,20 +217,11 @@ My inital reaction when visiting this site was that it was easy to navigate than
 ## 3. User Control and Freedom
 ### • Search icon
 
-<img src=2slide2.png width="200" height="200>
+<img src=2heur2.1.png width="200" height="200>
 
 | Severity Rating | Evaluation |
 |---|---|
 | 3 | Although the search icon itself is clickable, the red background the search icon is located in is unclickable. This causes confusion in users especially when they initially click on the red background hoping to make searches. If users don't make an another attempt to move their cursor to click on the white icon, they might gain the misunderstanding that the search icon is defective. To give users more freedom, making the entire icon (the white search icon + the red background) clickable is recommended. |
-
-<p>&nbsp;</p>
-
-### • Subscribe to newsletter tab
-
-![no search](2heur2.2.png)
-| Severity Rating | Evaluation |
-|---|---|
-| 2 | Users aren't told what information they are supposed to input in the tab. To ensure that users feel control, inputing placeholder texts like "Email" would be useful. |
 
 <p>&nbsp;</p>
 
@@ -244,21 +235,20 @@ My inital reaction when visiting this site was that it was easy to navigate than
 <p>&nbsp;</p>
 
 ## 5. Error Prevention
+### • Subscribe to Newsletter
 
-### • 
+![no search](2heur2.2.png)
 | Severity Rating | Evaluation |
 |---|---|
-| 3 |  |
+| 2 | Users aren't told what information they are supposed to input in the tab. To ensure that users feel in control and an error doesn't occur in the first place, inputing placeholder texts like "Email" would be useful. Additionally, displaying "Check your email right now!" or similar texts so users know whether the newsletter was sent to the correct email, is suggested.|
 
 <p>&nbsp;</p>
 
 ## 6. Recognition Rather Than Recall
 
-### • 
-
 | Severity Rating | Evaluation |  
-|---|---|
-| 1 | 
+|---|---| 
+| 1 | Users have to recall the title of the blog that interested them. Adding a bookmarking option is suggested. |
 
 <p>&nbsp;</p>
 
@@ -274,26 +264,25 @@ My inital reaction when visiting this site was that it was easy to navigate than
 
 ## 8. Aesthetic and Minimalist Design
 
-### • 
+### • Font, Color, and Images
 | Severity Rating | Evaluation |  
 |---|---|
-| 1 | |
+| Good | This site maintains minimality by not using various text colors and front sizes. The sizes of pictures remain constant throughout the pages. |
 
 
 <p>&nbsp;</p>
 
 ## 9. Help Users Recognize, Diagnose, and Recover From Errors
-
-### • 
-| Severity Rating | Evaluation |
-|---|---|
-| 3 |  |
+[input image]
+### • Subscribe to Newsletter 
+| Good | Although the input tab does not explicitly state what information users should input, when users input other information other than their emails, they are given immediate feedback and is told how to format their input. Their previous input does not get deleted which allows them to view and correct their mistakes without having to type their response from the very beginning. This prevents the reiteration of inputting wrong information. |
 
 <p>&nbsp;</p>
 
 ## 10. Help and Documentation
-### • 
+### • Contact Information not Visible
+ [add photo]                          
 | Severity Rating | Evaluation |
 |---|---|
-| 3 | |
+| 3 | The only method of communication seems to be through emailing specific staff members. There is no contact option visible in the footer (usually where these informations are located). Instead, users have to navigate to the "Staff" page or click "ISC Staff" in the footer to obtain emails for specific members. It is also hard for users who aren't familiar with the listed roles like "Senior Program Officer" to determine who to send an email to. Adding an FAQ page and an indiator on who users should contact for their queries is recommended. |
 
