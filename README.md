@@ -90,7 +90,6 @@ My inital reaction when visiting this site was that it was easy to navigate than
 |---|---|
 | 1 | There is no indication for users to scroll horizontally or vertically which can cause confusion in users. A sign stating "Press '>' to continue" or "Scroll down" would be a helpful solution. |
 
-
 <p>&nbsp;</p>
 
 ### • "National Scorecard" page
@@ -188,7 +187,7 @@ My inital reaction when visiting this site was that it was easy to navigate than
 <p>&nbsp;</p>
 
 # Website #2: [Institute for Sustainable Communities](https://sustain.org/blog/)
-![frontpage](frontpage.png)
+![front](https://user-images.githubusercontent.com/114601962/193990622-7db2f7e0-f973-4ab9-a03b-0ea3541197f9.png)
 
 <p>&nbsp;</p>
 
@@ -198,8 +197,7 @@ The Institute for Sustainable Communities believes that climate change, income i
 <p>&nbsp;</p>
 
 #### Initial Heuristic Evaluation 
-My initial evaluation about this site is that it is very easy to navigate as there were no jargons and the navigation tabs were organized. I felt comfortable viewing this website because it expressed minimality 
-confused between which tabs will directly lead me to a page instead of showing a drop down menu, which prompted me to go back and reiterate the process. 
+My initial evaluation about this site is that it is very easy to navigate as there were no jargons and the navigation tabs were organized, which helped me easily find what I was looking for. I felt comfortable viewing this website because it expressed minimality and limited their color usage. However, I was confused between the tabs that would directly lead me to a page instead of showing a drop down menu when clicked and tabs that only showed a drop down menu when clicked. Clicking on a tab expecting it to show a drop down menu but instead leading me to a page prompted me to go back and reiterate the process. 
 
 <p>&nbsp;</p>
 
@@ -310,4 +308,5 @@ confused between which tabs will directly lead me to a page instead of showing a
 | Severity Rating | Evaluation |
 |---|---|
 | 3 | The only method of communication seems to be through emailing specific staff members. There is no contact option visible in the footer (usually where these informations are located). Instead, users have to navigate to the "Staff" page or click "ISC Staff" in the footer to obtain emails for specific members. It is also hard for users who aren't familiar with the listed roles like "Senior Program Officer" to determine who to send an email to. Adding an FAQ page and an indiator on who users should contact for their queries is recommended. |
+
 
