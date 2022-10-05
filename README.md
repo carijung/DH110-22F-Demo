@@ -20,7 +20,14 @@ Cari Jung • DH110 • Fall 2022
 
  <p>&nbsp;</p>
  
+ ### Severity Ratings
+| Rating | Description |
+|---|---|
+| 1 | Cosmetic Problem, low priority|
+| 2 | Minor usability problem, mif priority |
+| 3 | Major usability problem, high priority |
  
+ <p>&nbsp;</p>
  
 # Website #1: [UN Environment Programme](https://www.unep.org/)
 
