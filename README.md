@@ -262,7 +262,7 @@ My inital reaction when visiting this site was that it was easy to navigate than
 <p>&nbsp;</p>
 
 ## 7. Flexibility and Efficiency of Use
-![contact](7heur1.1)
+![contact](contact.png)
 ### • Unclickable "Contact" menu
 
 | Severity Rating | Evaluation |  
