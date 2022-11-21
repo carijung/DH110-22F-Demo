@@ -3,7 +3,6 @@ Cari Jung • DH110 • Fall 2022
 
 ### About Project
 Many communities experience inadequate resources and nearly one billion people live in informal settlements. This way, cities become more vulnerable to climate disruptions, more natural disasters, economic losses, and human lives being lost. An important factor to resist such disasters is by building urban resilience. Because anyone can make an impact, digital products are one easy way to help people make a change or gain more insight into communities and resources. However, some digital products can be technical, which websites on sustainability shouldn't be since the users can range anywhere from young adult to seniors. Therfore, I aim to utilize my UX skills to help cater the valuable resources these websites hold to both laypeople and experts and establish intuitive interactions. 
-too technical.
 
 <p>&nbsp;</p>
 
