@@ -57,7 +57,7 @@ My inital reaction when visiting this site was that it was easy to navigate than
 
 | Severity Rating | Evaluation |  
 |---|---|
-| Good | When cursor is hovered above the navigation tabs the color changes, indicating that it is clickable. Additionally, the changes in the color allows users to indicate which tab they are currently viewing. These enhance user interactability with the site.|
+| 0 | When cursor is hovered above the navigation tabs the color changes, indicating that it is clickable. Additionally, the changes in the color allows users to indicate which tab they are currently viewing. These enhance user interactability with the site.|
 
 <p>&nbsp;</p>
 
@@ -289,7 +289,7 @@ My initial evaluation about this site is that it is very easy to navigate as the
 ### • Font, Color, and Images
 | Severity Rating | Evaluation |  
 |---|---|
-| Good | This site maintains minimality by not using various text colors and front sizes. The sizes of pictures remain constant throughout the pages. |
+| 0 | This site maintains minimality by not using various text colors and front sizes. The sizes of pictures remain constant throughout the pages. |
 
 
 <p>&nbsp;</p>
